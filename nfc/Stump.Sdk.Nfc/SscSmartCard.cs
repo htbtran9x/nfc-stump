@@ -26,6 +26,19 @@ namespace Stump.Sdk.Nfc
             var response = Read(0x04, 0x60, 0x00, 0x10);
             return Encoding.ASCII.GetString(response).Substring(0, 16).Trim();
         }
+        public string GetUID()
+        {
+            var response = ReadUID();
+            return string.Concat(response).Substring(0, 16).Trim();
+
+
+        }
+
+        public string GetUID1()
+        {
+            var response = Read(0x01, 0x60, 0x00, 0x10);
+            return Encoding.UTF8.GetString(response).Trim();
+        }
 
         /// <summary>
         /// Set SSC ID
@@ -44,7 +57,12 @@ namespace Stump.Sdk.Nfc
             reader.Send(authBytes);
             return reader.Send(cmdBytes);
         }
-
+        public byte[] ReadUID()
+        { 
+            var cmdBytes = new byte[] { 0xFF, 0xCA, 0x00, 0x00, 0x00 };
+             
+            return reader.Send(cmdBytes);
+        }
         public byte[] Write(byte block, byte keyType, byte keyNum, byte[] data)
         {
             var authBytes = new byte[] { 0xFF, 0x88, 0x00, block, keyType, keyNum };

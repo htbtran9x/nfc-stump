@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yfbo9xvQhfhdlfGGWXgFr+S/LtxnUXX3Hu0A9hDngGY/jUxcEIYWrpwzQRNvSj8lYpldxEHQWGR9kbIjCN61Fg==",
+  "dgSpecHash": "QesQqg/jHWBqw3MID0hePW3whiR8cBzeicJlw1ozQu8eirl2QUk6vnOvdc/y+1KlSDRTHvuCXqGjPS6jtFF8mw==",
   "success": true,
-  "projectFilePath": "/Users/brian/Project/testing/nfc-stump/mifare/Mifare/Mifare.csproj",
+  "projectFilePath": "D:\\Project\\0STLSolution\\nfc-stump\\mifare\\Mifare\\Mifare.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

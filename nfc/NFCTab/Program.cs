@@ -5,7 +5,8 @@ Console.WriteLine("Hello, World!");
 
 void ReadId(object sender, dynamic e)
 {
-    Console.WriteLine(e.Card.GetId());
+    
+    Console.WriteLine(e.Card.GetUID());
 }
 
 ProcessNFC.ProcessNFCEvent += ReadId;

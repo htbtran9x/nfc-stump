@@ -1,0 +1,13 @@
+﻿image: Visual Studio 2022
+install:
+  - cinst fake
+build_script:
+  - cmd: fake.exe run build.fsx --parallel 3
+test: off
+environment:
+  PAKET_BOOTSTRAPPER_TRACE: true
+pull_requests:
+  do_not_increment_build_number: true
+nuget:
+  disable_publish_on_pr: true
+  disable_publish_octopus: true

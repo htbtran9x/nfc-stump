@@ -18,7 +18,7 @@ while(true) {
     Read();
     Thread.Sleep(100);
 
-    nfc.Disconnect();
 
- }
+    nfc.Disconnect();
+}
 
