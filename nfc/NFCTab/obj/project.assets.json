@@ -1,0 +1,128 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "PCSC/6.1.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/PCSC.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/PCSC.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Stump.Sdk.Nfc/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "PCSC": "6.1.3"
+        },
+        "compile": {
+          "bin/placeholder/Stump.Sdk.Nfc.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Stump.Sdk.Nfc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PCSC/6.1.3": {
+      "sha512": "Owbrhae5DAFUgg1gKiRNPjoG3Lr8FdsmlZl6RZnqs+QlWjZQr/2gzY6zYOiBa3L9H1UhMCqxL4I/yvaldelP/g==",
+      "type": "package",
+      "path": "pcsc/6.1.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "COPYING.txt",
+        "README.md",
+        "lib/net6.0/PCSC.dll",
+        "lib/net6.0/PCSC.pdb",
+        "lib/net6.0/PCSC.xml",
+        "lib/net7.0/PCSC.dll",
+        "lib/net7.0/PCSC.pdb",
+        "lib/net7.0/PCSC.xml",
+        "lib/netstandard2.0/PCSC.dll",
+        "lib/netstandard2.0/PCSC.pdb",
+        "lib/netstandard2.0/PCSC.xml",
+        "pcsc-sharp.png",
+        "pcsc.6.1.3.nupkg.sha512",
+        "pcsc.nuspec"
+      ]
+    },
+    "Stump.Sdk.Nfc/1.0.0": {
+      "type": "project",
+      "path": "../Stump.Sdk.Nfc/Stump.Sdk.Nfc.csproj",
+      "msbuildProject": "../Stump.Sdk.Nfc/Stump.Sdk.Nfc.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Stump.Sdk.Nfc >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/brian/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/brian/Desktop/nfc/NFCTab/NFCTab.csproj",
+      "projectName": "NFCTab",
+      "projectPath": "/Users/brian/Desktop/nfc/NFCTab/NFCTab.csproj",
+      "packagesPath": "/Users/brian/.nuget/packages/",
+      "outputPath": "/Users/brian/Desktop/nfc/NFCTab/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/brian/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/brian/Desktop/nfc/Stump.Sdk.Nfc/Stump.Sdk.Nfc.csproj": {
+              "projectPath": "/Users/brian/Desktop/nfc/Stump.Sdk.Nfc/Stump.Sdk.Nfc.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
