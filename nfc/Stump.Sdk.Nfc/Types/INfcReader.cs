@@ -17,6 +17,8 @@ namespace Stump.Sdk.Nfc.Types
         /// <returns></returns>
         byte[] Send(byte[] request);
 
+        Task<byte[]> SendAsync(byte[] request);
+
         /// <summary>
         /// Disconnect from reader
         /// </summary>

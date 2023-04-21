@@ -50,5 +50,12 @@ namespace Stump.Sdk.Nfc
 
             return recivedBuffer;
         }
+        public async Task<byte[]> SendAsync(byte[] request)
+        {
+            byte[] recivedBuffer = new byte[20];
+            Reader.Transmit(request, recivedBuffer);
+
+            return  recivedBuffer;
+        }
     }
 }
