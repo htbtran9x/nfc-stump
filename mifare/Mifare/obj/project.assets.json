@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\brian\\.nuget\\packages\\": {}
+    "/Users/brian/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\mifare\\Mifare\\Mifare.csproj",
+      "projectUniqueName": "/Users/brian/Project/testing/nfc-stump/mifare/Mifare/Mifare.csproj",
       "projectName": "Mifare",
-      "projectPath": "\\\\Mac\\Home\\Desktop\\mifare\\Mifare\\Mifare.csproj",
-      "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Desktop\\mifare\\Mifare\\obj\\",
+      "projectPath": "/Users/brian/Project/testing/nfc-stump/mifare/Mifare/Mifare.csproj",
+      "packagesPath": "/Users/brian/.nuget/packages/",
+      "outputPath": "/Users/brian/Project/testing/nfc-stump/mifare/Mifare/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/brian/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
       }
     }
   }

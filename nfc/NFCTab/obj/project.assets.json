@@ -71,11 +71,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brian/Desktop/nfc/NFCTab/NFCTab.csproj",
+      "projectUniqueName": "/Users/brian/Project/testing/nfc-stump/nfc/NFCTab/NFCTab.csproj",
       "projectName": "NFCTab",
-      "projectPath": "/Users/brian/Desktop/nfc/NFCTab/NFCTab.csproj",
+      "projectPath": "/Users/brian/Project/testing/nfc-stump/nfc/NFCTab/NFCTab.csproj",
       "packagesPath": "/Users/brian/.nuget/packages/",
-      "outputPath": "/Users/brian/Desktop/nfc/NFCTab/obj/",
+      "outputPath": "/Users/brian/Project/testing/nfc-stump/nfc/NFCTab/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/brian/.nuget/NuGet/NuGet.Config"
@@ -90,8 +90,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/brian/Desktop/nfc/Stump.Sdk.Nfc/Stump.Sdk.Nfc.csproj": {
-              "projectPath": "/Users/brian/Desktop/nfc/Stump.Sdk.Nfc/Stump.Sdk.Nfc.csproj"
+            "/Users/brian/Project/testing/nfc-stump/nfc/Stump.Sdk.Nfc/Stump.Sdk.Nfc.csproj": {
+              "projectPath": "/Users/brian/Project/testing/nfc-stump/nfc/Stump.Sdk.Nfc/Stump.Sdk.Nfc.csproj"
             }
           }
         }

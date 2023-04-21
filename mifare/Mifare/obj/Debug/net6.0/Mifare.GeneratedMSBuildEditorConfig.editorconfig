@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Mifare
-build_property.ProjectDir = \\Mac\Home\Desktop\mifare\Mifare\
+build_property.ProjectDir = /Users/brian/Project/testing/nfc-stump/mifare/Mifare/

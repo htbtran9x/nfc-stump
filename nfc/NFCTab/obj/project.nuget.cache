@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R5ZmOYojOizj9tsyJxdxqjpOCQu3w+dvL1N0RBiOiHo8BKSnmSq3dYT3PZXNfg7o/RVdBewWI6ofYgZNC5NS+g==",
+  "dgSpecHash": "hxQAjT4YjQGIBFeKUwGCFXViIf7c1zqc3hmm7/1OVKyUPGJ4/b69v+ukO6XDJ/oTZYXVU0O5GYDJDQXWcW7gGg==",
   "success": true,
-  "projectFilePath": "/Users/brian/Desktop/nfc/NFCTab/NFCTab.csproj",
+  "projectFilePath": "/Users/brian/Project/testing/nfc-stump/nfc/NFCTab/NFCTab.csproj",
   "expectedPackageFiles": [
     "/Users/brian/.nuget/packages/pcsc/6.1.3/pcsc.6.1.3.nupkg.sha512"
   ],

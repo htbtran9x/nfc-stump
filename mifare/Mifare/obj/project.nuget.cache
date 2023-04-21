@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FxeBdRu1BglHZZ7eLyuqzTrfXJMw1vXz8E4SrtpeMUwIJqtEpeffTmveQxFrym8AIDaHcxHfl0xolTnDqpPGew==",
+  "dgSpecHash": "yfbo9xvQhfhdlfGGWXgFr+S/LtxnUXX3Hu0A9hDngGY/jUxcEIYWrpwzQRNvSj8lYpldxEHQWGR9kbIjCN61Fg==",
   "success": true,
-  "projectFilePath": "\\\\Mac\\Home\\Desktop\\mifare\\Mifare\\Mifare.csproj",
+  "projectFilePath": "/Users/brian/Project/testing/nfc-stump/mifare/Mifare/Mifare.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
