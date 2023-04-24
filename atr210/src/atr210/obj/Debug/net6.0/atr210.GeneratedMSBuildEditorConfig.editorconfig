@@ -1,5 +1,5 @@
 is_global = true
-build_property.TargetFramework = net5.0
+build_property.TargetFramework = net6.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
 build_property.ProjectTypeGuids = 
@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Stump.Sdk.Nfc
-build_property.ProjectDir = /Users/brian/Project/testing/nfc-stump/nfc/Stump.Sdk.Nfc/
+build_property.RootNamespace = atr210
+build_property.ProjectDir = /Users/brian/Project/testing/nfc-stump/atr210/src/atr210/

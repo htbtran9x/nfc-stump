@@ -1,0 +1,15 @@
+/Users/brian/Project/testing/nfc-stump/atr210/src/atr210/bin/Debug/net6.0/atr210
+/Users/brian/Project/testing/nfc-stump/atr210/src/atr210/bin/Debug/net6.0/atr210.deps.json
+/Users/brian/Project/testing/nfc-stump/atr210/src/atr210/bin/Debug/net6.0/atr210.runtimeconfig.json
+/Users/brian/Project/testing/nfc-stump/atr210/src/atr210/bin/Debug/net6.0/atr210.dll
+/Users/brian/Project/testing/nfc-stump/atr210/src/atr210/bin/Debug/net6.0/atr210.pdb
+/Users/brian/Project/testing/nfc-stump/atr210/src/atr210/obj/Debug/net6.0/atr210.csproj.AssemblyReference.cache
+/Users/brian/Project/testing/nfc-stump/atr210/src/atr210/obj/Debug/net6.0/atr210.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brian/Project/testing/nfc-stump/atr210/src/atr210/obj/Debug/net6.0/atr210.AssemblyInfoInputs.cache
+/Users/brian/Project/testing/nfc-stump/atr210/src/atr210/obj/Debug/net6.0/atr210.AssemblyInfo.cs
+/Users/brian/Project/testing/nfc-stump/atr210/src/atr210/obj/Debug/net6.0/atr210.csproj.CoreCompileInputs.cache
+/Users/brian/Project/testing/nfc-stump/atr210/src/atr210/obj/Debug/net6.0/atr210.dll
+/Users/brian/Project/testing/nfc-stump/atr210/src/atr210/obj/Debug/net6.0/refint/atr210.dll
+/Users/brian/Project/testing/nfc-stump/atr210/src/atr210/obj/Debug/net6.0/atr210.pdb
+/Users/brian/Project/testing/nfc-stump/atr210/src/atr210/obj/Debug/net6.0/atr210.genruntimeconfig.cache
+/Users/brian/Project/testing/nfc-stump/atr210/src/atr210/obj/Debug/net6.0/ref/atr210.dll

@@ -48,26 +48,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\htbtr\\.nuget\\packages\\": {}
+    "/Users/brian/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\0STLSolution\\nfc-stump\\nfc\\Stump.Sdk.Nfc\\Stump.Sdk.Nfc.csproj",
+      "projectUniqueName": "/Users/brian/Project/testing/nfc-stump/nfc/Stump.Sdk.Nfc/Stump.Sdk.Nfc.csproj",
       "projectName": "Stump.Sdk.Nfc",
-      "projectPath": "D:\\Project\\0STLSolution\\nfc-stump\\nfc\\Stump.Sdk.Nfc\\Stump.Sdk.Nfc.csproj",
-      "packagesPath": "C:\\Users\\htbtr\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\0STLSolution\\nfc-stump\\nfc\\Stump.Sdk.Nfc\\obj\\",
+      "projectPath": "/Users/brian/Project/testing/nfc-stump/nfc/Stump.Sdk.Nfc/Stump.Sdk.Nfc.csproj",
+      "packagesPath": "/Users/brian/.nuget/packages/",
+      "outputPath": "/Users/brian/Project/testing/nfc-stump/nfc/Stump.Sdk.Nfc/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\htbtr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/brian/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -102,12 +100,22 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Jy6IglWfxrjMQNTJnUszHafoe0sudyXWiWBCO3JM9qH7CeMeKcs+ETjWpMATLyQsQN1VGT5wZP9iomasPV9rGQ==",
+  "dgSpecHash": "CPS5i4WtCHkhWUcoIHAuUDXatIpOD0OIgLXgVFM7z1W8AoO52DhZe8oOuGQGC8oWsFGz9NBJj5qOfwfR0S8Ujg==",
   "success": true,
-  "projectFilePath": "D:\\Project\\0STLSolution\\nfc-stump\\nfc\\Stump.Sdk.Nfc\\Stump.Sdk.Nfc.csproj",
+  "projectFilePath": "/Users/brian/Project/testing/nfc-stump/nfc/Stump.Sdk.Nfc/Stump.Sdk.Nfc.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\htbtr\\.nuget\\packages\\pcsc\\6.1.3\\pcsc.6.1.3.nupkg.sha512"
+    "/Users/brian/.nuget/packages/pcsc/6.1.3/pcsc.6.1.3.nupkg.sha512",
+    "/Users/brian/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/brian/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
